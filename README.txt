@@ -1,0 +1,1 @@
+This project was written in my motherlanguage (Turkish). I showed lots of bisuness models and created a imaginary swimming pool by using MS Project to reach processes and solutions.
